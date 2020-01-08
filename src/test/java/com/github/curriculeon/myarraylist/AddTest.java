@@ -31,7 +31,7 @@ public class AddTest {
 
     @Test
     public void test0() {
-        test("The", "Quick", "Brown");
+        test("The", "Quick");
     }
 
     @Test
